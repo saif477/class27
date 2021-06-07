@@ -1,0 +1,49 @@
+.note-book {
+	height: 420px;
+	width: 85%;
+	background-color: aqua;
+	margin: 65px 106px;
+}
+
+.accordion-body img{
+    max-width: 90%;
+    height: 165px;
+    margin-left: 70px;
+}
+
+
+.fullhd{
+    width: 60%;
+    margin-top: 30px;
+}
+.fullhdbd{
+    width: 40%;
+}
+.fullhdbd-ok {
+	margin-top: 85px;
+	margin-left: 15px;
+}
+
+.section{
+    background: royalblue;
+}
+.lina h2{
+    margin-top: 30px;
+}
+
+.progress{
+    margin: 20px 0px;
+}
+
+.footerbd {
+	height: 200px;
+	width: 100%;
+	background: black;
+	color: white;
+	text-align: center;
+    
+}
+.saifur h1 {
+	font-size: 20px;
+	padding: 86px;
+}
